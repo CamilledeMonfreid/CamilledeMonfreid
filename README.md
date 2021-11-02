@@ -1,4 +1,13 @@
-### Hi there 👋
+### Bonjour 👋🏻
+
+👩🏻‍💻 Je m'appelle Camille, je suis développeuse web junior.
+   Je me suis formée entre autre sur la plateforme Openclassrooms. Vous pourrez trouver ici les 6 projets que j'ai réalisé à cette occasion !
+   
+🎨 Ma créativité est un moteur : au-delà du développement, j'ai à cœur de penser le design de mes projets afin de les rendre optimales et uniques.
+
+🔍 Je suis à l'écoute de nouvelles opportunités d'emploi de développeuse web junior dans le Val d'Oise. Nous pouvons échanger à ce sujet via l'adresse mail suivante : demonfreid.c@gmail.com
+
+A bientôt 😊
 
 <!--
 **CamilledeMonfreid/CamilledeMonfreid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
