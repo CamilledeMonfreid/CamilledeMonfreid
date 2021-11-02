@@ -5,7 +5,7 @@
    
 🎨 Ma créativité est un moteur : au-delà du développement, j'ai à cœur de penser le design de mes projets afin de les rendre optimales et uniques.
 
-🔍 Je suis à l'écoute de nouvelles opportunités d'emploi de développeuse web junior dans le Val d'Oise. Nous pouvons échanger à ce sujet via l'adresse mail suivante : demonfreid.c@gmail.com
+🔍 Je suis à l'écoute de nouvelles opportunités d'emploi de développeuse web junior dans le Val d'Oise. Nous pouvons échanger à ce sujet via l'adresse mail suivante : demonfreid.c@gmail.com.
 
 A bientôt 😊
 
