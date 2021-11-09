@@ -1,6 +1,6 @@
 ### Bonjour 👋🏻
 
-👩🏻‍💻 Je m'appelle Camille, je suis développeuse web junior.
+👩🏻‍💻 Je m'appelle Camille, je suis développeuse web.
    Je me suis formée entre autre sur la plateforme Openclassrooms. Vous pourrez trouver ici les 6 projets que j'ai réalisé à cette occasion !
    
 🎨 Ma créativité est un moteur : au-delà du développement, j'ai à cœur de penser le design de mes projets afin de les rendre optimales et uniques.
